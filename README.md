@@ -57,5 +57,6 @@ Thread count: 5
 ## Contact Me：
 * 我的博客（CSDN）：https://blog.csdn.net/weixin_42923076  
 这里有一些写ZLog源码时用到的一些技术细节以及遇到的问题和解决过程。
+* 此源码相关博客：https://blog.csdn.net/weixin_42923076/article/details/116893260
 * 我的邮箱（保证随时可以联系到我！）：zkcc20164020@126.com  
 本人水平、精力有限，花在造轮子上的时间实际也不多，所以源码中难免存在一些问题，欢迎前辈和同学与我讨论其中存在的问题，恳请各位大佬批评指正！
